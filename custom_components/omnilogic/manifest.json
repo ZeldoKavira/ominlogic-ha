@@ -1,6 +1,6 @@
 {
   "domain": "omnilogicz",
-  "name": "Hayward Omnilogic",
+  "name": "Hayward Omnilogicz",
   "codeowners": [],
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/omnilogic",
