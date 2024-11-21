@@ -1,6 +1,6 @@
 """Constants for the Omnilogic integration."""
 
-DOMAIN = "omnilogic"
+DOMAIN = "omnilogicz"
 CONF_SCAN_INTERVAL = "polling_interval"
 DEFAULT_SCAN_INTERVAL = 6
 DEFAULT_PH_OFFSET = 0

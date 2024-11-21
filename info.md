@@ -1,4 +1,6 @@
 ## **Changelog**
+### Version 1.4
+- Manifest24
 ### Version 1.3
 - Manifest2
 ### Version 1.2

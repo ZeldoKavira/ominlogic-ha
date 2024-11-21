@@ -1,7 +1,7 @@
 set_pump_speed:
   target:
     entity:
-      integration: omnilogic
+      integration: omnilogicz
       domain: switch
   fields:
     speed:
